@@ -1,11 +1,10 @@
 ---
-title: "📞 Contact Us"
+title: "contact us"
 permalink: /contact/
 layout: single
-toc: false
 ---
-  Hubungi kami melalui kanal berikut untuk informasi seputar kegiatan BAVERA:
+Hubungi kami melalui kanal berikut untuk informasi seputar kegiatan BAVERA:
 
-📧 Email: ukmbadminton@kampus.ac.id
-📸 Instagram: @ukmbadminton
-📱 WhatsApp: 08xxxxxxxxxx
+Email: ukmbadminton@kampus.ac.id  
+Instagram: [@ukmbadminton](https://instagram.com/ukmbadminton)  
+WhatsApp: 08xxxxxxxxxx
