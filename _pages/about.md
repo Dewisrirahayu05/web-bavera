@@ -4,12 +4,12 @@ permalink: /about/
 title: "🏸 Tentang BAVERA"
 excerpt: "BAVERA adalah Badminton Universitas Indraprasta PGRI."
 layouts_gallery:
+  - url: /assets/FEEDS_2_tentang_unindra.jpg
+    image_path: /assets/FEEDS_2_tentang_unindra.jpg
   - url: /assets/FEEDS_2.png
     image_path: /assets/FEEDS_2.png
   - url: /assets/FEEDS_2_Bavera.png
     image_path: /assets/FEEDS_2_Bavera.png
-  - url: /assets/images/mm-layout-archive.png
-    image_path: /assets/images/mm-layout-archive.png
 toc: true
 ---
 
