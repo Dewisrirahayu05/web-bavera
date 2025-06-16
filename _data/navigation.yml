@@ -1,13 +1,13 @@
 # main links
 
 main:
-  - title:"About"
+  - title: "About"
     url: /about/
-  - title:"Gallery"
+  - title: "Gallery"
     url: /gallery/
-  - title:"Schedule"
+  - title: "Schedule"
     url: /schedule/
-  - title:"Contact"
+  - title: "Contact"
     url: /contact/ 
   
   # - title: "Quick-Start Guide"
