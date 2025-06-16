@@ -3,7 +3,12 @@
 search: false
 ---
 
-@charset "utf-8";
+#@charset "utf-8";
 
-@import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
-@import "minimal-mistakes"; // main partials
+#@import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
+#@import "minimal-mistakes"; // main partials
+.page__hero--overlay {
+  min-height: 500px; // kamu bisa ubah ke 600px atau lebih sesuai kebutuhan
+  background-size: contain; // atau `cover` tergantung hasil yang kamu mau
+  background-position: center top;
+}
