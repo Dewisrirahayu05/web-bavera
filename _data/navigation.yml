@@ -1,7 +1,19 @@
 # main links
+
 main:
-  - title: "Quick-Start Guide"
-    url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
+  - title:"Home"
+    url: 
+  - title:"About"
+    url: https://dewisrirahayu05.github.io/web-bavera/about/
+  - title:"Gallery"
+    url: https://dewisrirahayu05.github.io/web-bavera/gallery/
+  - title:"Schedule"
+    url: https://dewisrirahayu05.github.io/web-bavera/schedule/
+  - title:"Contact"
+    url: https://dewisrirahayu05.github.io/web-bavera/contact/ 
+    
+  # - title: "Quick-Start Guide"
+  #   url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "Sample Posts"
