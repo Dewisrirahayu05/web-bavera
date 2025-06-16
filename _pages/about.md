@@ -3,21 +3,17 @@ permalink: /about/
 title: "🏸 Tentang BAVERA"
 excerpt: "BAVERA adalah Badminton Universitas Indraprasta PGRI."
 layouts_gallery:
-  - url: /assets/images/mm-layout-splash.png
-    image_path: /assets/images/mm-layout-splash.png
-    alt: "splash layout example"
-  - url: /assets/images/mm-layout-single-meta.png
-    image_path: /assets/images/mm-layout-single-meta.png
-    alt: "single layout with comments and related posts"
+  - url: /assets/FEEDS_2.png
+    image_path: /assets/FEEDS_2.png
+  - url: /assets/FEEDS_2_Bavera.png
+    image_path: /assets/FEEDS_2_Bavera.png
   - url: /assets/images/mm-layout-archive.png
     image_path: /assets/images/mm-layout-archive.png
-    alt: "archive layout example"
 toc: true
 ---
 
-{% include gallery id="layouts_gallery" caption="Examples of included layouts splash, single, and archive." %}
+{% include gallery id="layouts_gallery" %}
 
-[Install the Theme]({{ "/docs/quick-start-guide/" | relative_url }}){: .btn .btn--success .btn--large}
 
 **BAVERA** adalah singkatan dari **Badminton Universitas Indraprasta PGRI**, yang merupakan **Unit Kegiatan Mahasiswa (UKM)** di Universitas Indraprasta PGRI. UKM ini menjadi wadah bagi mahasiswa dan mahasiswi yang memiliki minat dan bakat di bidang olahraga badminton. 🧑‍🎓🏸
 
@@ -36,7 +32,7 @@ Selain mengikuti kejuaraan, BAVERA juga beberapakali melakukan **sparring** deng
 
 ### Logo BAVERA
 
-<img src="/ukm-badminton-website/assets/logo_bavera.jpg" alt="Logo BAVERA" width="250">
+<img src="/web-bavera/assets/logo_bavera.jpg" alt="Logo BAVERA" width="250">
 
 Makna logo BAVERA:
 
