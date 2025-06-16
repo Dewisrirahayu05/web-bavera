@@ -4,13 +4,13 @@ main:
   - title:"Home"
     url: 
   - title:"About"
-    url: https://dewisrirahayu05.github.io/web-bavera/about/
+    url: /about/
   - title:"Gallery"
-    url: https://dewisrirahayu05.github.io/web-bavera/gallery/
+    url: /gallery/
   - title:"Schedule"
-    url: https://dewisrirahayu05.github.io/web-bavera/schedule/
+    url: /schedule/
   - title:"Contact"
-    url: https://dewisrirahayu05.github.io/web-bavera/contact/ 
+    url: /contact/ 
   
   # - title: "Quick-Start Guide"
   #   url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
