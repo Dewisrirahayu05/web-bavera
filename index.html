@@ -33,11 +33,22 @@ layouts_home:
     alt: ""
 ---
 <style>
+/* Batasi tinggi gambar header supaya nggak makan tempat terlalu banyak */
+.page__hero-image {
+  max-height: 300px; /* ubah sesuai kebutuhan */
+  object-fit: cover;
+}
+
+/* Kurangi padding/margin tambahan dari konten utama */
+.page__content {
+  margin-top: 0;
+  padding-top: 0;
+}
 /* Tambahkan gradasi yang sama dengan header FEEDS 1.png */
 .gallery-background {
   width: 100vw; /* full lebar layar */
   background: linear-gradient(to bottom, #fffde8, #a8dcf0); /* sesuaikan gradasi header FEEDS 1 */
-  padding: 0px 0;
+  padding: 40px 0;
   margin: 0;
   position: relative;
   left: 50%;
