@@ -1,10 +1,17 @@
 ---
-title: "contact us"
+title: "Contact Us"
 permalink: /contact/
 layout: single
 ---
-Hubungi kami melalui kanal berikut untuk informasi seputar kegiatan BAVERA:
 
-Email: ukmbadminton@kampus.ac.id  
-Instagram: [@ukmbadminton](https://instagram.com/ukmbadminton)  
-WhatsApp: 08xxxxxxxxxx
+<div class="contact-box">
+
+### Hubungi Kami
+
+Untuk informasi seputar kegiatan **BAVERA**, silahkan hubungi kami melalui :
+
+📧 **Email**: bulutangkkis.unindra@gmail.com 
+📷 **Instagram**: [@badminton_unindra](https://instagram.com/badminton_unindra)  
+🎵 **TikTok**: [@badminton_unindra](https://tiktok.com/@badminton_unindra) 
+
+</div>
