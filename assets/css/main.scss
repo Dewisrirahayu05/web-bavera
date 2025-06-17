@@ -7,19 +7,3 @@ search: false
 
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
-
-.hero-image {
-  display: block;
-  width: 100%;
-  height: auto;
-  margin: 0 auto;
-  margin-bottom: 0; /* pastikan ini ada */
-}
-
-.page__hero--overlay {
-  background-size: contain !important;
-  background-position: top center !important;
-  background-repeat: no-repeat !important;
-  padding-bottom: 0 !important;
-  margin-bottom: 0 !important;
-}
