@@ -5,7 +5,7 @@ title: "🏸 Tentang BAVERA"
 excerpt: "BAVERA adalah Badminton Universitas Indraprasta PGRI."
 toc: true
 ---
-<img src="/web-bavera/assets/FEEDS_2.png" alt="Logo BAVERA" width="500">
+<img src="/web-bavera/assets/FEEDS_2.png" alt="header" width="500">
 
 **BAVERA** adalah singkatan dari **Badminton Universitas Indraprasta PGRI**, yang merupakan **Unit Kegiatan Mahasiswa (UKM)** di Universitas Indraprasta PGRI. UKM ini menjadi wadah bagi mahasiswa dan mahasiswi yang memiliki minat dan bakat di bidang olahraga badminton. 🧑‍🎓🏸
 
