@@ -10,15 +10,9 @@ search: false
 
 // Tambahan custom biar gambar header gak kepotong
 .page__hero--overlay {
-  min-height: 600px !important;
+  height: auto !important;
+  padding: 3rem 0 !important;
   background-size: contain !important;
   background-position: top center !important;
   background-repeat: no-repeat !important;
 }
-
-// Hilangkan jarak bawah dari header
-.page__hero--overlay {
-  margin-bottom: 0 !important;
-  padding-bottom: 0 !important;
-}
-
