@@ -8,10 +8,9 @@ search: false
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
 
-// Tambahan custom biar gambar header gak kepotong
-.page__hero--overlay {
-  min-height: 600px !important;
-  background-size: contain !important;
-  background-position: top center !important;
-  background-repeat: no-repeat !important;
+.hero-image {
+  width: 100%;
+  height: auto; /* biar tinggi otomatis dan proporsional */
+  display: block;
+  margin: 0 auto;
 }
