@@ -1,25 +1,57 @@
 ---
-layout: splash
-permalink: /
-hidden: true
+layout: home
 header:
-  overlay_color: "#1976D2"
   overlay_image: /assets/FEEDS 1.png
-feature_row:
-  - image_path: /assets/logo_bavera.jpg
-    alt: "Tentang Kami"
-    title: "Tentang BAVERA"
-    excerpt: "BAVERA adalah singkatan dari Badminton Universitas Indraprasta PGRI."
-    url: "/about/"
-    btn_label: "Lihat selengkapnya"
-    btn_class: "btn--primary"
-  - image_path: /assets/icon_gallery.png
-    alt: "Gallery Kegiatan"
-    title: "Gallery"
-    excerpt: "Dokumentasi kegiatan BAVERA"
-    url: "/gallery/"
-    btn_class: "btn--primary"
-    btn_label: "Lihat gallery"   
+  overlay_filter: 0.0
+layouts_home:
+  - url: /assets/FEEDS_2_Bavera.png
+    image_path: /assets/FEEDS_2_Bavera.png
+    alt: "Feed 2 Bavera"
+  - url: /assets/FEEDS_2.png
+    image_path: /assets/FEEDS_2.png
+    alt: "Feed 2"
+  - url: /assets/FEEDS_2_tentang_unindra.jpg
+    image_path: /assets/FEEDS_2_tentang_unindra.jpg
+    alt: "Tentang Unindra"
+  - url: /assets/FEEDS_2_foto_bersama_sama_2.jpg
+    image_path: /assets/FEEDS_2_foto_bersama_sama_2.jpg
+    alt: "Foto Bersama"
+  - url: /assets/FEEDS_4_Unindra_13.jpg
+    image_path: /assets/FEEDS_4_Unindra_13.jpg
+    alt: "Feed 4 Unindra 13"
+  - url: /assets/FEEDS4_Unindra_12.jpg
+    image_path: /assets/FEEDS4_Unindra_12.jpg
+    alt: "Feed 4 Unindra 12"
+  - url: /assets/FEEDS4_Unindra_11.jpg
+    image_path: /assets/FEEDS4_Unindra_11.jpg
+    alt: "Feed 4 Unindra 11"
+  - url: /assets/FEEDS4_Unindra_10.jpg
+    image_path: /assets/FEEDS4_Unindra_10.jpg
+    alt: "Feed 4 Unindra 10"
+  - url: /assets/FEEDS4_Unindra_9.jpg
+    image_path: /assets/FEEDS4_Unindra_9.jpg
+    alt: "Feed 4 Unindra 9"
 ---
+<style>
+.gallery-background {
+  width: 100vw;
+  background: linear-gradient(to bottom, #fffde8, #a8dcf0); /* gradasi mirip FEEDS 1 */
+  padding: 50px 20px;
+  margin-left: calc(-50vw + 50%);
+  margin-right: calc(-50vw + 50%);
+}
 
-{% include feature_row %}
+.gallery-background img {
+  width: 100%;
+  max-width: 950px;
+  height: auto;
+  margin: 20px auto;
+  display: block;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+  border-radius: 12px;
+}
+</style>
+
+<div class="gallery-background">
+  {% include gallery id="layouts_home" %}
+</div>
