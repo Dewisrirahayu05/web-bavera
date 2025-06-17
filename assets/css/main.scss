@@ -15,3 +15,10 @@ search: false
   background-position: top center !important;
   background-repeat: no-repeat !important;
 }
+
+// Hilangkan jarak bawah dari header
+.page__hero--overlay {
+  margin-bottom: 0 !important;
+  padding-bottom: 0 !important;
+}
+
