@@ -34,19 +34,22 @@ layouts_home:
     alt: "Feed 4 Unindra 9"
 ---
 <style>
-/* Gedein gambar header */
-.page__hero--overlay {
-  background-size: cover !important; /* Biar gambar penuh */
-  background-position: center top;   /* Posisi dari atas */
-  height: 100vh;                     /* Tinggi penuh layar */
-  max-height: unset;                 /* Hapus limit default */
+/* Hapus margin dan padding bawah header */
+.page__hero {
+  margin-bottom: 0 !important;
+  padding-bottom: 0 !important;
 }
-  
-/* Ubah background body supaya nyambung dengan gradasi FEEDS 1 */
-body {
-  background: linear-gradient(to bottom, #fffde8, #a8dcf0);
-  margin: 0;
-  padding: 0;
+
+/* Hilangkan margin/padding default di konten utama */
+.page__content {
+  margin: 0 !important;
+  padding: 0 !important;
+}
+
+/* Optional: header image tinggi fix */
+.page__hero--overlay {
+  padding: 0 !important;
+  min-height: auto !important;
 }
 
 /* Hapus jeda default di konten utama */
