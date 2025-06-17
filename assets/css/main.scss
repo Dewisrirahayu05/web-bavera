@@ -10,9 +10,14 @@ search: false
 
 // Tambahan custom biar gambar header gak kepotong
 .page__hero--overlay {
-  height: auto !important;
-  padding: 3rem 0 !important;
   background-size: contain !important;
   background-position: top center !important;
   background-repeat: no-repeat !important;
+  padding: 3rem 0 !important;
+}
+
+.page,
+.page__content {
+  margin-top: 0 !important;
+  padding-top: 0 !important;
 }
