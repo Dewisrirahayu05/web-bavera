@@ -6,7 +6,7 @@ header:
   overlay_color: "#1976D2"
   overlay_image: /assets/FEEDS 1.png
 feature_row:
-  - image_path: /assets/icon_about.png
+  - image_path: /assets/logo_bavera.jpg
     alt: "Tentang Kami"
     title: "Tentang BAVERA"
     excerpt: "BAVERA adalah singkatan dari Badminton Universitas Indraprasta PGRI."
