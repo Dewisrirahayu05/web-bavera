@@ -34,14 +34,35 @@ layouts_home:
     alt: "Feed 4 Unindra 9"
 ---
 <style>
-.gallery-background {
-  width: 100vw;
-  background: linear-gradient(to bottom, #fffde8, #a8dcf0); /* gradasi mirip FEEDS 1 */
-  padding: 50px 20px;
-  margin-left: calc(-50vw + 50%);
-  margin-right: calc(-50vw + 50%);
+/* Ubah background body supaya nyambung dengan gradasi FEEDS 1 */
+body {
+  background: linear-gradient(to bottom, #fffde8, #a8dcf0);
+  margin: 0;
+  padding: 0;
 }
 
+/* Hapus jeda default di konten utama */
+.page__content {
+  margin-top: 0;
+  padding-top: 0;
+  background: transparent;
+}
+
+/* Galeri background supaya nyambung dengan header */
+.gallery-background {
+  width: 100vw;
+  background: linear-gradient(to bottom, #fffde8, #a8dcf0);
+  padding: 40px 0;
+  margin: 0;
+  position: relative;
+  left: 50%;
+  right: 50%;
+  margin-left: -50vw;
+  margin-right: -50vw;
+  border-top: none; /* pastikan gak ada batas */
+}
+
+/* Styling gambar-gambar galeri */
 .gallery-background img {
   width: 100%;
   max-width: 950px;
