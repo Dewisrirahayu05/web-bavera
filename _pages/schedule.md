@@ -1,10 +1,43 @@
 ---
-title: "activity schedule"
+title: "Activity Schedule"
 permalink: /schedule/
-layout: single
+layout: page
 ---
+# 📅 Kalender Kegiatan UKM BAVERA
 
-| Tanggal | Waktu    | Tempat      |
-|---------|----------|-------------|
-| 14 Juni | 16.00 WIB| GOR Kampus A|
-| 22 Juni | 09.00 WIB| GOR Kampus B|
+<table>
+  <thead>
+    <tr>
+      <th>Nama Kegiatan</th>
+      <th>Hari</th>
+      <th>Tanggal</th>
+      <th>Waktu</th>
+      <th>Tempat</th>
+      <th>Jenis</th>
+      <th>Platform</th>
+    </tr>
+  </thead>
+  <tbody>
+    {% assign now = site.time | date: "%Y-%m-%d" %}
+
+    {% assign kegiatan = site.data.jadwal %}
+
+    {% for item in kegiatan %}
+      {% assign tanggal = item.tanggal | date: "%Y-%m-%d" %}
+      {% if tanggal < now %}
+        {% assign coret = "style='text-decoration: line-through; color: gray;'" %}
+      {% else %}
+        {% assign coret = "" %}
+      {% endif %}
+    <tr>
+      <td {{ coret }}>{{ item.nama }}</td>
+      <td {{ coret }}>{{ item.hari }}</td>
+      <td {{ coret }}>{{ item.tanggal }}</td>
+      <td {{ coret }}>{{ item.waktu }}</td>
+      <td {{ coret }}>{{ item.tempat }}</td>
+      <td {{ coret }}>{{ item.jenis }}</td>
+      <td {{ coret }}>{{ item.platform }}</td>
+    </tr>
+    {% endfor %}
+  </tbody>
+</table>
