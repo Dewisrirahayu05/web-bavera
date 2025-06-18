@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "Activity Schedule"
+title: 
 permalink: /schedule/
 ---
 
