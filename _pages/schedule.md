@@ -1,6 +1,6 @@
 ---
 layout: single
-title: 📅 Jadwal Kegiatan UKM BAVERA
+title: Jadwal Kegiatan UKM BAVERA
 permalink: /schedule/
 ---
 
