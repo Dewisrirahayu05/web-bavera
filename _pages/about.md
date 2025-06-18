@@ -1,13 +1,17 @@
 ---
 layout: single
 permalink: /about/
-title: "🏸 Tentang BAVERA"
+title: "Tentang BAVERA"
 excerpt: "BAVERA adalah Badminton Universitas Indraprasta PGRI."
 toc: true
 ---
-<img src="/web-bavera/assets/FEEDS_2.png" alt="header" width="1000">
+<div style="text-align: center;">
+  <img src="/web-bavera/assets/FEEDS_2.png" alt="header" style="max-width: 100%; height: auto; border-radius: 12px;">
+</div>
 
-**BAVERA** adalah singkatan dari **Badminton Universitas Indraprasta PGRI**, yang merupakan **Unit Kegiatan Mahasiswa (UKM)** di Universitas Indraprasta PGRI. UKM ini menjadi wadah bagi mahasiswa dan mahasiswi yang memiliki minat dan bakat di bidang olahraga badminton. 🧑‍🎓🏸
+## Apa Itu BAVERA?
+
+**BAVERA** adalah singkatan dari **Badminton Universitas Indraprasta PGRI**, yang merupakan **Unit Kegiatan Mahasiswa (UKM)** di Universitas Indraprasta PGRI. UKM ini menjadi wadah bagi mahasiswa dan mahasiswi yang memiliki minat dan bakat di bidang olahraga badminton 🏸.
 
 BAVERA dibentuk pada tanggal **16 September 2019**📅. Saat itu, kami membentuk komunitas untuk mempermudah atlet-atlet badminton Universitas Indraprasta PGRI mengikuti berbagai kejuaraan 🏆, sekaligus menjadi sarana bagi mahasiswa yang ingin belajar dan mengembangkan kemampuan dalam badminton. Awalnya, BAVERA hanya beranggotakan **13 orang** dari berbagai program studi. Saat ini, jumlah anggota kami telah berkembang menjadi **kurang lebih 70 orang** 🙌.
 
@@ -24,7 +28,9 @@ Selain mengikuti kejuaraan, BAVERA juga beberapakali melakukan **sparring** deng
 
 ### Logo BAVERA
 
-<img src="/web-bavera/assets/logo_bavera.jpg" alt="Logo BAVERA" width="250">
+<div style="text-align: center;">
+  <img src="/web-bavera/assets/logo_bavera.jpg" alt="Logo BAVERA" width="250" style="border-radius: 12px;">
+</div>
 
 Makna logo BAVERA:
 
@@ -55,3 +61,5 @@ maupun luar kampus, bahkan hingga tingkat nasional.
 3. 🏆 Memberikan pengalaman kepada para anggota melalui kejuaraan badminton seperti kejuaraan tingkat fakultas, tingkat universitas, maupun sparing antar Unit Kegiatan Mahasiswa.
 
 ---
+
+Terima kasih telah mengenal kami lebih dekat! Yuk gabung dan tumbuh bersama keluarga besar **BAVERA** 💜
