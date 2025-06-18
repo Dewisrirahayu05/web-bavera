@@ -1,10 +1,61 @@
 ---
-layout: home
-title: "UKM BAVERA | Badminton UNINDRA"
+layout: default
+title: "UKM Badminton UNINDRA"
 permalink: /
 ---
 
 <style>
+/* Navbar */
+.navbar {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 1rem 2rem;
+  background-color: #4B0082;
+  color: white;
+}
+.navbar h1 {
+  margin: 0;
+  font-size: 1.5rem;
+}
+.navbar-menu {
+  display: none;
+  flex-direction: column;
+  background-color: #4B0082;
+  position: absolute;
+  top: 60px;
+  right: 0;
+  width: 200px;
+  border-radius: 0 0 10px 10px;
+}
+.navbar-menu a {
+  padding: 1rem;
+  text-decoration: none;
+  color: white;
+  border-top: 1px solid #fff3;
+}
+.menu-toggle {
+  cursor: pointer;
+  font-size: 1.5rem;
+}
+@media(min-width: 768px) {
+  .navbar-menu {
+    display: flex;
+    position: static;
+    flex-direction: row;
+    width: auto;
+    background: none;
+    border-radius: 0;
+  }
+  .navbar-menu a {
+    border: none;
+  }
+  .menu-toggle {
+    display: none;
+  }
+}
+
+/* Hero Section */
 .hero {
   background: linear-gradient(to right, #b39ddb, #ede7f6);
   padding: 4rem 2rem;
@@ -35,42 +86,25 @@ permalink: /
 .cta-button:hover {
   background-color: #5e35b1;
 }
-.card-section {
-  display: flex;
-  flex-wrap: wrap;
-  gap: 1.5rem;
-  justify-content: center;
-  margin: 2rem 0;
-}
-.card {
-  background: white;
-  border-radius: 1rem;
-  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
-  width: 300px;
-  overflow: hidden;
-  transition: transform 0.2s;
-}
-.card:hover {
-  transform: scale(1.03);
-}
-.card img {
-  width: 100%;
-  height: 200px;
-  object-fit: cover;
-}
-.card-content {
-  padding: 1rem;
-  text-align: left;
-}
-.card-content h3 {
-  margin: 0 0 0.5rem;
-  color: #4527a0;
-}
-.card-content p {
-  font-size: 0.95rem;
-  color: #555;
-}
 </style>
+
+<script>
+function toggleMenu() {
+  const menu = document.getElementById("navbar-menu");
+  menu.style.display = menu.style.display === "flex" ? "none" : "flex";
+}
+</script>
+
+<div class="navbar">
+  <h1>UKM BAVERA</h1>
+  <div class="menu-toggle" onclick="toggleMenu()">☰</div>
+  <div class="navbar-menu" id="navbar-menu">
+    <a href="/">Home</a>
+    <a href="/schedule/">Jadwal</a>
+    <a href="/gallery/">Galeri</a>
+    <a href="/contact/">Kontak</a>
+  </div>
+</div>
 
 <div class="hero">
   <h1>Selamat Datang di UKM BAVERA 🏸</h1>
@@ -80,28 +114,9 @@ permalink: /
 
 ## 🎯 Highlight Kegiatan Terbaru
 
-<div class="card-section">
-  <div class="card">
-    <img src="https://raw.githubusercontent.com/Dewisrirahayu05/web-bavera/main/assets/img/highlight-1.jpg" alt="Latihan 1">
-    <div class="card-content">
-      <h3>Latihan Rutin</h3>
-      <p>Minggu, 17 November 2024<br>GOR Sudirman Yonbekang-5</p>
-    </div>
-  </div>
-
-  <div class="card">
-    <img src="https://raw.githubusercontent.com/Dewisrirahayu05/web-bavera/main/assets/img/highlight-2.jpg" alt="Latihan 2">
-    <div class="card-content">
-      <h3>Latihan Rutin</h3>
-      <p>Minggu, 27 Oktober 2024<br>GOR Sudirman Yonbekang-5</p>
-    </div>
-  </div>
-</div>
-
-## 📸 Cuplikan Galeri Instagram
-
-Lihat dokumentasi lengkap di [Instagram kami](https://instagram.com/badminton_unindra/) ya!
+Tampilkan di sini beberapa highlight kegiatan, info turnamen, atau agenda terdekat.
 
 ---
 
 Yuk bergabung bersama kami dan jadilah bagian dari keluarga besar UKM BAVERA! 💜
+
