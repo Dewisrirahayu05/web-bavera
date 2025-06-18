@@ -1,17 +1,22 @@
 ---
-title: "Contact Us"
+title: "📞 Hubungi Kami"
 permalink: /contact/
 layout: single
 ---
 
-<div class="contact-box">
+Kalau kamu punya pertanyaan, saran, atau ingin bergabung dengan UKM BAVERA, langsung aja hubungi kami melalui kanal berikut:
 
-### Hubungi Kami
+---
 
-Untuk informasi seputar kegiatan **BAVERA**, silahkan hubungi kami melalui :
+### 📧 Email  
+✉️ [bulutangkkis.unindra@gmail.com ](mailto:bulutangkkis.unindra@gmail.com )
 
-📧 **Email**: bulutangkkis.unindra@gmail.com 
-📷 **Instagram**: [@badminton_unindra](https://instagram.com/badminton_unindra)  
-🎵 **TikTok**: [@badminton_unindra](https://tiktok.com/@badminton_unindra) 
+### 📸 Instagram  
+📷 [@badminton_unindra](https://instagram.com/badminton_unindra) 
 
-</div>
+### 📍 Lokasi Latihan  
+📌 GOR Sudirman Yonbekang-5, Jakarta
+
+---
+
+> Jangan ragu untuk menghubungi kami. Kami terbuka untuk anggota baru dan kolaborasi!
