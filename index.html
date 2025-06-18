@@ -1,83 +1,107 @@
 ---
 layout: home
+title: "UKM BAVERA | Badminton UNINDRA"
 permalink: /
-header:
-  overlay_image: /assets/FEEDS 1.png
-  overlay_filter: 0.0
-layouts_home:
-  - url: /assets/FEEDS_2_Bavera.png
-    image_path: /assets/FEEDS_2_Bavera.png
-    alt: "Feed 2 Bavera"
-  - url: /assets/FEEDS_2.png
-    image_path: /assets/FEEDS_2.png
-    alt: "Feed 2"
-  - url: /assets/FEEDS_2_tentang_unindra.jpg
-    image_path: /assets/FEEDS_2_tentang_unindra.jpg
-    alt: "Tentang Unindra"
-  - url: /assets/FEEDS_2_foto_bersama_sama_2.jpg
-    image_path: /assets/FEEDS_2_foto_bersama_sama_2.jpg
-    alt: "Foto Bersama"
-  - url: /assets/FEEDS_4_Unindra_13.jpg
-    image_path: /assets/FEEDS_4_Unindra_13.jpg
-    alt: "Feed 4 Unindra 13"
-  - url: /assets/FEEDS4_Unindra_12.jpg
-    image_path: /assets/FEEDS4_Unindra_12.jpg
-    alt: "Feed 4 Unindra 12"
-  - url: /assets/FEEDS4_Unindra_11.jpg
-    image_path: /assets/FEEDS4_Unindra_11.jpg
-    alt: "Feed 4 Unindra 11"
-  - url: /assets/FEEDS4_Unindra_10.jpg
-    image_path: /assets/FEEDS4_Unindra_10.jpg
-    alt: "Feed 4 Unindra 10"
-  - url: /assets/FEEDS4_Unindra_9.jpg
-    image_path: /assets/FEEDS4_Unindra_9.jpg
-    alt: "Feed 4 Unindra 9"
 ---
+
 <style>
-.gallery {
-  width: 100% !important;
-  margin: 0 auto !important;
-  padding: 0 !important;
-  display: block !important;
+.hero {
+  background: linear-gradient(to right, #b39ddb, #ede7f6);
+  padding: 4rem 2rem;
+  text-align: center;
+  border-radius: 1rem;
+  margin-bottom: 2rem;
 }
-
-.gallery img {
-  width: 100% !important;
-  height: auto !important;
-  display: block !important;
-  margin-bottom: 30px !important;
-  box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+.hero h1 {
+  font-size: 2.5rem;
+  margin-bottom: 1rem;
+  color: #4527a0;
 }
-
-/* Hapus jeda default di konten utama */
-.page__content {
-  margin-top: 0;
-  padding-top: 0;
-  background: transparent;
+.hero p {
+  font-size: 1.2rem;
+  margin-bottom: 2rem;
+  color: #311b92;
 }
-
-/* Galeri background supaya nyambung dengan header */
-.gallery-background {
-  width: 100vw;
-  background: linear-gradient(to bottom, #fffde8, #a8dcf0); /* gradasi mirip FEEDS 1 */
-  padding: 50px 20px;
-  margin-left: calc(-50vw + 50%);
-  margin-right: calc(-50vw + 50%);
-  border-top: none; /* pastikan gak ada batas */
+.cta-button {
+  background-color: #7e57c2;
+  color: white;
+  padding: 0.75rem 1.5rem;
+  border: none;
+  border-radius: 0.5rem;
+  font-weight: bold;
+  text-decoration: none;
+  transition: background-color 0.3s;
 }
-  
-/* Styling gambar-gambar galeri */
-.gallery-background img {
+.cta-button:hover {
+  background-color: #5e35b1;
+}
+.card-section {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 1.5rem;
+  justify-content: center;
+  margin: 2rem 0;
+}
+.card {
+  background: white;
+  border-radius: 1rem;
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+  width: 300px;
+  overflow: hidden;
+  transition: transform 0.2s;
+}
+.card:hover {
+  transform: scale(1.03);
+}
+.card img {
   width: 100%;
-  max-width: 950px;
-  height: auto;
-  margin: 20px auto;
-  display: block;
-  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
-  border-radius: 12px;
+  height: 200px;
+  object-fit: cover;
+}
+.card-content {
+  padding: 1rem;
+  text-align: left;
+}
+.card-content h3 {
+  margin: 0 0 0.5rem;
+  color: #4527a0;
+}
+.card-content p {
+  font-size: 0.95rem;
+  color: #555;
 }
 </style>
 
-<div class="gallery-background">
-  {% include gallery id="layouts_home" %}
+<div class="hero">
+  <h1>Selamat Datang di UKM BAVERA 🏸</h1>
+  <p>Unit Kegiatan Mahasiswa Badminton Universitas Indraprasta PGRI</p>
+  <a href="/schedule/" class="cta-button">Lihat Jadwal Kegiatan</a>
 </div>
+
+## 🎯 Highlight Kegiatan Terbaru
+
+<div class="card-section">
+  <div class="card">
+    <img src="https://raw.githubusercontent.com/Dewisrirahayu05/web-bavera/main/assets/img/highlight-1.jpg" alt="Latihan 1">
+    <div class="card-content">
+      <h3>Latihan Rutin</h3>
+      <p>Minggu, 17 November 2024<br>GOR Sudirman Yonbekang-5</p>
+    </div>
+  </div>
+
+  <div class="card">
+    <img src="https://raw.githubusercontent.com/Dewisrirahayu05/web-bavera/main/assets/img/highlight-2.jpg" alt="Latihan 2">
+    <div class="card-content">
+      <h3>Latihan Rutin</h3>
+      <p>Minggu, 27 Oktober 2024<br>GOR Sudirman Yonbekang-5</p>
+    </div>
+  </div>
+</div>
+
+## 📸 Cuplikan Galeri Instagram
+
+Lihat dokumentasi lengkap di [Instagram kami](https://instagram.com/badminton_unindra/) ya!
+
+---
+
+Yuk bergabung bersama kami dan jadilah bagian dari keluarga besar UKM BAVERA! 💜
