@@ -1,11 +1,7 @@
 ---
 layout: single
-title: Activity Schedule
+title: ## 📅 Jadwal Kegiatan UKM BAVERA
 permalink: /schedule/
----
-
-## 📅 Jadwal Kegiatan UKM BAVERA
-
 ---
 
 ### 🏸 **DIKLAT “Leadership: Off and On Court”**
