@@ -4,7 +4,7 @@ title:
 permalink: /schedule/
 ---
 
-<section style="padding: 2rem 1rem; background-color: #fdfdfe;">
+<section style="padding: 1rem 1rem; background-color: #fdfdfe;">
   <div class="container mx-auto">
     <h2 style="font-size: 2.5rem; font-weight: bold; color: #4B0082; text-align: center; margin-bottom: 1.5rem;">
       📅 Jadwal Kegiatan UKM BAVERA
