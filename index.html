@@ -5,56 +5,6 @@ permalink: /
 ---
 
 <style>
-/* Navbar */
-.navbar {
-  display: flex;
-  justify-content: space-between;
-  align-items: center;
-  padding: 1rem 2rem;
-  background-color: #4B0082;
-  color: white;
-}
-.navbar h1 {
-  margin: 0;
-  font-size: 1.5rem;
-}
-.navbar-menu {
-  display: none;
-  flex-direction: column;
-  background-color: #4B0082;
-  position: absolute;
-  top: 60px;
-  right: 0;
-  width: 200px;
-  border-radius: 0 0 10px 10px;
-}
-.navbar-menu a {
-  padding: 1rem;
-  text-decoration: none;
-  color: white;
-  border-top: 1px solid #fff3;
-}
-.menu-toggle {
-  cursor: pointer;
-  font-size: 1.5rem;
-}
-@media(min-width: 768px) {
-  .navbar-menu {
-    display: flex;
-    position: static;
-    flex-direction: row;
-    width: auto;
-    background: none;
-    border-radius: 0;
-  }
-  .navbar-menu a {
-    border: none;
-  }
-  .menu-toggle {
-    display: none;
-  }
-}
-
 /* Hero Section */
 .hero {
   background: linear-gradient(to right, #b39ddb, #ede7f6);
@@ -88,31 +38,13 @@ permalink: /
 }
 </style>
 
-<script>
-function toggleMenu() {
-  const menu = document.getElementById("navbar-menu");
-  menu.style.display = menu.style.display === "flex" ? "none" : "flex";
-}
-</script>
-
-<div class="navbar">
-  <h1>UKM BAVERA</h1>
-  <div class="menu-toggle" onclick="toggleMenu()">☰</div>
-  <div class="navbar-menu" id="navbar-menu">
-    <a href="/">Home</a>
-    <a href="/schedule/">Jadwal</a>
-    <a href="/gallery/">Galeri</a>
-    <a href="/contact/">Kontak</a>
-  </div>
-</div>
-
 <div class="hero">
   <h1>Selamat Datang di UKM BAVERA 🏸</h1>
   <p>Unit Kegiatan Mahasiswa Badminton Universitas Indraprasta PGRI</p>
   <a href="/schedule/" class="cta-button">Lihat Jadwal Kegiatan</a>
 </div>
 
-## 🎯 Highlight Kegiatan Terbaru
+🎯 Highlight Kegiatan Terbaru
 
 Tampilkan di sini beberapa highlight kegiatan, info turnamen, atau agenda terdekat.
 
