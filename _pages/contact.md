@@ -1,5 +1,5 @@
 ---
-title: "📞 Hubungi Kami"
+title: "Hubungi Kami"
 permalink: /contact/
 layout: single
 ---
