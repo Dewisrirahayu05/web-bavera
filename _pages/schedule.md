@@ -21,7 +21,4 @@ permalink: /schedule/
 ---
 
 ### 🆚 **Turnamen UNINDRA VS Universitas Pertiwi**
-🗓️ **Coming Soon**  
-⏰ **Waktu:** Coming Soon  
-📍 **Tempat:** Coming Soon 
-🟡 **Status:** <span style="color:orange;">Coming Soon</span>  
+<span style="color:orange;">Coming Soon</span>  
