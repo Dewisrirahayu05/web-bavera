@@ -51,17 +51,17 @@ permalink: /gallery/
   </div>
 
   <div class="gallery-item">
-    <img src="/web-bavera/assets/6-10-2024.png" alt="6-10-2024.png">
+    <img src="/web-bavera/assets/22-12-2024.png" alt="22-12-2024.png">
     <div class="gallery-caption"></div>
   </div>
 
   <div class="gallery-item">
-    <img src="/web-bavera/assets/20-10-2024.png" alt="20-10-2024.png">
+    <img src="/web-bavera/assets/8-12-2024.png" alt="8-12-2024.png">
     <div class="gallery-caption"></div>
   </div>
 
   <div class="gallery-item">
-    <img src="/web-bavera/assets/27-10-2024.png" alt="27-10-2024.png">
+    <img src="/web-bavera/assets/1-12-2024.png" alt="1-12-2024.png">
     <div class="gallery-caption"></div>
   </div>
   
