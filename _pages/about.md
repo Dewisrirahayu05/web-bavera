@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: single
 permalink: /about/
 title: "Tentang BAVERA"
 excerpt: "BAVERA adalah Badminton Universitas Indraprasta PGRI."
