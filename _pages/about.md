@@ -6,20 +6,10 @@ excerpt: "BAVERA adalah Badminton Universitas Indraprasta PGRI."
 toc: true
 ---
 
-<style>
-  .about-section {
-    background: linear-gradient(to bottom, #fffde8, #a8dcf0);
-    padding: 2rem;
-    border-radius: 12px;
-    margin-bottom: 2rem;
-  }
-</style>
-
 <div style="text-align: center;">
   <img src="/web-bavera/assets/FEEDS_2.png" alt="header" style="max-width: 100%; height: auto; border-radius: 12px;">
 </div>
 
-<div class="about-section">
 ## Apa Itu BAVERA?
 
 **BAVERA** adalah singkatan dari **Badminton Universitas Indraprasta PGRI**, yang merupakan **Unit Kegiatan Mahasiswa (UKM)** di Universitas Indraprasta PGRI. UKM ini menjadi wadah bagi mahasiswa dan mahasiswi yang memiliki minat dan bakat di bidang olahraga badminton 🏸.
@@ -74,4 +64,3 @@ maupun luar kampus, bahkan hingga tingkat nasional.
 ---
 
 Terima kasih telah mengenal kami lebih dekat! Yuk gabung dan tumbuh bersama **BAVERA** 💜
-</div>
