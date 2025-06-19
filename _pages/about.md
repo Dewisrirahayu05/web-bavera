@@ -14,11 +14,11 @@ toc: true
   }
 </style>
 
-<div class="about-section">
 <div style="text-align: center;">
   <img src="/web-bavera/assets/FEEDS_2.png" alt="header" style="max-width: 100%; height: auto; border-radius: 12px;">
 </div>
 
+<div class="about-section">
 ## Apa Itu BAVERA?
 
 **BAVERA** adalah singkatan dari **Badminton Universitas Indraprasta PGRI**, yang merupakan **Unit Kegiatan Mahasiswa (UKM)** di Universitas Indraprasta PGRI. UKM ini menjadi wadah bagi mahasiswa dan mahasiswi yang memiliki minat dan bakat di bidang olahraga badminton 🏸.
