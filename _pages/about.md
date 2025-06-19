@@ -1,3 +1,4 @@
+---
 layout: single
 permalink: /about/
 title: "Tentang BAVERA"
