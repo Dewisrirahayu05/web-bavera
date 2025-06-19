@@ -36,17 +36,17 @@ permalink: /gallery/
 <div class="gallery-grid">
 
   <div class="gallery-item">
-    <img src="/web-bavera/assets/15-9-2025.png" alt="15-9-2025.png">
+    <img src="/web-bavera/assets/14-1-2025.png" alt="14-1-2025.png">
     <div class="gallery-caption"></div>
   </div>
 
   <div class="gallery-item">
-    <img src="/web-bavera/assets/mubes.png" alt="mubes.png">
+    <img src="/web-bavera/assets/2-2-2025.png" alt="2-2-2025.png">
     <div class="gallery-caption"></div>
   </div>
 
   <div class="gallery-item">
-    <img src="/web-bavera/assets/29-9-2024.png" alt="29-9-2024.png">
+    <img src="/web-bavera/assets/9-3-2025.png" alt="9-3-2025.png">
     <div class="gallery-caption"></div>
   </div>
 
