@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: default
 title: 
 permalink: /gallery/
 ---
@@ -7,9 +7,11 @@ permalink: /gallery/
 <style>
 .gallery-grid {
   display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+  grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
   gap: 1.5rem;
-  margin-top: 2rem;
+  margin: 2rem auto;
+  max-width: 1100px;
+  padding: 0 1rem;
 }
 
 .gallery-item {
