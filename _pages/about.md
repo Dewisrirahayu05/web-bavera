@@ -1,42 +1,24 @@
----
 layout: single
 permalink: /about/
 title: "Tentang BAVERA"
 excerpt: "BAVERA adalah Badminton Universitas Indraprasta PGRI."
 toc: true
 ---
+
 <style>
   .about-section {
-    background: linear-gradient(to bottom right, #fafafa, #f0f0ff);
+    background: linear-gradient(to bottom, #fffde8, #a8dcf0);
     padding: 2rem;
     border-radius: 12px;
     margin-bottom: 2rem;
   }
-  .about-image {
-    text-align: center;
-    margin-bottom: 2rem;
-  }
-  .about-image img {
-    max-width: 100%;
-    border-radius: 12px;
-  }
-  .logo-section img {
-    border-radius: 12px;
-    margin: 1rem 0;
-  }
-  blockquote {
-    font-style: italic;
-    color: #6c63ff;
-    border-left: 5px solid #6c63ff;
-    padding-left: 1rem;
-  }
 </style>
 
-<div class="about-image">
-  <img src="/web-bavera/assets/FEEDS_2.png" alt="header">
+<div class="about-section">
+<div style="text-align: center;">
+  <img src="/web-bavera/assets/FEEDS_2.png" alt="header" style="max-width: 100%; height: auto; border-radius: 12px;">
 </div>
 
-<div class="about-section">
 ## Apa Itu BAVERA?
 
 **BAVERA** adalah singkatan dari **Badminton Universitas Indraprasta PGRI**, yang merupakan **Unit Kegiatan Mahasiswa (UKM)** di Universitas Indraprasta PGRI. UKM ini menjadi wadah bagi mahasiswa dan mahasiswi yang memiliki minat dan bakat di bidang olahraga badminton 🏸.
@@ -51,14 +33,13 @@ Selain mengikuti kejuaraan, BAVERA juga beberapakali melakukan **sparring** deng
 * Universitas Gunadarma
 * Universitas Terbuka (UT) Bogor
 * Universitas Dian Nusantara (UNDIRA)
-</div>
+
 ---
 
-<div class="about-section logo-section">
 ### Logo BAVERA
 
 <div style="text-align: center;">
-  <img src="/web-bavera/assets/logo_bavera.jpg" alt="Logo BAVERA" width="250">
+  <img src="/web-bavera/assets/logo_bavera.jpg" alt="Logo BAVERA" width="250" style="border-radius: 12px;">
 </div>
 
 Makna logo BAVERA:
@@ -74,26 +55,22 @@ Shuttlecock adalah symbol dari organisasi Bulutangkis
 
 * **Warna Ungu**  
 Warna ini menyimbolkan tentang spiritualitas, kebijaksanaan, penguasaan, dan kekuatan mental.
-</div>
+
 ---
 
-<div class="about-section">
 ### Visi 🎯
 
 > Menjadikan Unit Kegiatan Mahasiswa BAVERA meraih keunggulan dan prestasi di dalam
 maupun luar kampus, bahkan hingga tingkat nasional.
-</div>
 
 ---
 
-<div class="about-section">
 ### Misi 🚀
 1. 💪 Meningkatkan kinerja pengurus dan anggota agar tercipta suatu persatuan,kesatuan dan kekeluargaan dalam satu organisasi.
 2. 🏸 Meningkatkan kualitas pelatihan agar bisa melihat potensial anggota dalam mengasah bakat dan kemampuannya dalam bermain badminton.
 3. 🏆 Memberikan pengalaman kepada para anggota melalui kejuaraan badminton seperti kejuaraan tingkat fakultas, tingkat universitas, maupun sparing antar Unit Kegiatan Mahasiswa.
-</div>
+
 ---
 
-<div style="text-align: center; margin-top: 2rem;">
-  💜 Terima kasih telah mengenal kami lebih dekat! Yuk gabung dan tumbuh bersama BAVERA 💜
+Terima kasih telah mengenal kami lebih dekat! Yuk gabung dan tumbuh bersama **BAVERA** 💜
 </div>
