@@ -36,28 +36,33 @@ permalink: /gallery/
 <div class="gallery-grid">
 
   <div class="gallery-item">
-    <img src="/web-bavera/assets/15-9-2024.jpg" alt="15-9-2024.jpg">
+    <img src="/web-bavera/assets/15-9-2025.png" alt="15-9-2025.png">
     <div class="gallery-caption"></div>
   </div>
 
   <div class="gallery-item">
-    <img src="/assets/images/gallery/latihan-27okt.jpg" alt="Latihan 27 Okt">
-    <div class="gallery-caption">Minggu, 27 Oktober 2024</div>
+    <img src="/web-bavera/assets/mubes.png" alt="mubes.png">
+    <div class="gallery-caption"></div>
   </div>
 
   <div class="gallery-item">
-    <img src="/assets/images/gallery/latihan-20okt.jpg" alt="Latihan 20 Okt">
-    <div class="gallery-caption">Minggu, 20 Oktober 2024</div>
+    <img src="/web-bavera/assets/29-9-2024.png" alt="29-9-2024.png">
+    <div class="gallery-caption"></div>
   </div>
 
   <div class="gallery-item">
-    <img src="/assets/images/gallery/latihan-6okt.jpg" alt="Latihan 6 Okt">
-    <div class="gallery-caption">Minggu, 6 Oktober 2024</div>
+    <img src="/web-bavera/assets/6-10-2024.png" alt="6-10-2024.png">
+    <div class="gallery-caption"></div>
   </div>
 
   <div class="gallery-item">
-    <img src="/assets/images/gallery/latihan-29sep.jpg" alt="Latihan 29 Sep">
-    <div class="gallery-caption">Minggu, 29 September 2024</div>
+    <img src="/web-bavera/assets/20-10-2024.png" alt="20-10-2024.png">
+    <div class="gallery-caption"></div>
   </div>
 
+  <div class="gallery-item">
+    <img src="/web-bavera/assets/27-10-2024.png" alt="27-10-2024.png">
+    <div class="gallery-caption"></div>
+  </div>
+  
 </div>
