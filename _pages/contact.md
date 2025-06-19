@@ -9,10 +9,10 @@ Kalau kamu punya pertanyaan, saran, atau ingin bergabung dengan UKM BAVERA, lang
 ---
 
 ### 📧 Email  
-✉️ [bulutangkkis.unindra@gmail.com ](mailto:bulutangkkis.unindra@gmail.com )
+[bulutangkis.unindra@gmail.com ](mailto:bulutangkis.unindra@gmail.com )
 
 ### 📸 Instagram  
-📷 [@badminton_unindra](https://instagram.com/badminton_unindra) 
+[@badminton_unindra](https://instagram.com/badminton_unindra) 
 
 ### 📍 Lokasi Latihan  
 📌 GOR Sudirman Yonbekang-5, Jakarta
