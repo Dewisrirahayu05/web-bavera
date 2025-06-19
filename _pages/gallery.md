@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 
+title: Dokumentasi Kegiatan UKM BAVERA
 permalink: /gallery/
 ---
 
@@ -32,13 +32,11 @@ permalink: /gallery/
 }
 </style>
 
-## 📸 Dokumentasi Kegiatan UKM BAVERA
-
 <div class="gallery-grid">
 
   <div class="gallery-item">
-    <img src="/assets/images/gallery/latihan-17nov.jpg" alt="Latihan 17 Nov">
-    <div class="gallery-caption">Minggu, 17 November 2024</div>
+    <img src="/assets/join.jpg" alt="daftar sekarang">
+    <div class="gallery-caption"></div>
   </div>
 
   <div class="gallery-item">
