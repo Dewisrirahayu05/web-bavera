@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Dokumentasi Kegiatan UKM BAVERA
+title: Dokumentasi
 permalink: /gallery/
 ---
 
@@ -31,11 +31,12 @@ permalink: /gallery/
   color: #555;
 }
 </style>
+# Dokumentasi Kegiatan UKM BAVERA
 
 <div class="gallery-grid">
 
   <div class="gallery-item">
-    <img src="/assets/join.jpg" alt="daftar sekarang">
+    <img src="web-bavera/assets/join.jpg" alt="daftar sekarang">
     <div class="gallery-caption"></div>
   </div>
 
