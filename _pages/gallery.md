@@ -36,7 +36,7 @@ permalink: /gallery/
 <div class="gallery-grid">
 
   <div class="gallery-item">
-    <img src="/web-bavera/assets/join.jpg" alt="daftar sekarang">
+    <img src="/web-bavera/assets/15-9-2024.jpg" alt="15-9-2024.jpg">
     <div class="gallery-caption"></div>
   </div>
 
