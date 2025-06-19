@@ -27,7 +27,7 @@ Selain mengikuti kejuaraan, BAVERA juga beberapakali melakukan **sparring** deng
 
 ---
 
-### Logo BAVERA
+## Logo BAVERA
 
 <div style="text-align: center;">
   <img src="/web-bavera/assets/logo_bavera.jpg" alt="Logo BAVERA" width="250" style="border-radius: 12px;">
@@ -49,14 +49,14 @@ Warna ini menyimbolkan tentang spiritualitas, kebijaksanaan, penguasaan, dan kek
 
 ---
 
-### Visi 🎯
+## Visi 🎯
 
 > Menjadikan Unit Kegiatan Mahasiswa BAVERA meraih keunggulan dan prestasi di dalam
 maupun luar kampus, bahkan hingga tingkat nasional.
 
 ---
 
-### Misi 🚀
+## Misi 🚀
 1. 💪 Meningkatkan kinerja pengurus dan anggota agar tercipta suatu persatuan,kesatuan dan kekeluargaan dalam satu organisasi.
 2. 🏸 Meningkatkan kualitas pelatihan agar bisa melihat potensial anggota dalam mengasah bakat dan kemampuannya dalam bermain badminton.
 3. 🏆 Memberikan pengalaman kepada para anggota melalui kejuaraan badminton seperti kejuaraan tingkat fakultas, tingkat universitas, maupun sparing antar Unit Kegiatan Mahasiswa.
