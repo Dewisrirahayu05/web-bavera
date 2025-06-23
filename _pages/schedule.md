@@ -1,4 +1,6 @@
 ---
+author_profile: true
+footer: true
 layout: single
 title: 
 permalink: /schedule/
