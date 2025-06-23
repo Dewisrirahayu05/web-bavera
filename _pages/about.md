@@ -1,4 +1,6 @@
 ---
+author_profile: true
+footer: true
 layout: single
 permalink: /about/
 title: "Tentang BAVERA"
