@@ -19,7 +19,7 @@ permalink: /schedule/
         </h3>
         <ul style="list-style: none; padding-left: 0;">
           <li>🗓️ Sabtu-Minggu, 26-27 April 2025</li>
-          <li>⏰ 08.00 – selesai</li>
+          <li>⏰ 08.00 WIB – selesai</li>
           <li>📍 Villa Sambora</li>
           <li>Status: ✅ Selesai</li>
         </ul>
@@ -33,7 +33,7 @@ permalink: /schedule/
         <ul style="list-style: none; padding-left: 0;">
           <li>📅 Setiap Minggu</li>
           <li>📍 GOR Yonbekang 5</li>
-          <li>⏰ Pukul 08.00 – selesai</li>
+          <li>⏰ Pukul 13.30 – 16.00 WIB</li>
         </ul>
       </div>
 
