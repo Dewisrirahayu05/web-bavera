@@ -127,9 +127,6 @@ author:
     - label: "TikTok"
       icon: "fab fa-fw fa-tiktok"
       url: "https://www.tiktok.com/@badminton_unindra"
-   - label: "Email"
-      icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:bulutangkis.unindra@gmail.com"
       
 # Site Footer
 footer:
@@ -140,6 +137,9 @@ footer:
     - label: "TikTok"
       icon: "fab fa-fw fa-tiktok"
       url: "https://www.tiktok.com/@badminton_unindra"
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:bulutangkis.unindra@gmail.com"
 
 # Reading Files
 include:
